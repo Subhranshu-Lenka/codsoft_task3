@@ -1,2 +1,2 @@
 # codsoft_task3
-Password generator
+Password generator using python tkinter
